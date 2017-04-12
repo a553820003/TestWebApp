@@ -18,6 +18,7 @@ namespace LanguageFeatures.Models
         IEnumerator IEnumerable.GetEnumerator()
         {
             return GetEnumerator();
+            //小小的测试一下
         }
     }
 }
